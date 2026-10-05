@@ -1,0 +1,253 @@
+{
+  "destination": "Flwers New",
+  "songs": [
+    {
+      "slot": 22,
+      "name": "Baby Blue",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        0,
+        2
+      ],
+      "snapshots": [
+        "Intro/Brdg",
+        "Verse/Chrs",
+        "Boost"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 13,
+      "name": "Flowers on the Bedroom Floor",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        9,
+        11
+      ],
+      "snapshots": [
+        "Verse",
+        "Chorus",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 23,
+      "name": "Falling For You",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        16,
+        18
+      ],
+      "snapshots": [
+        "Pre/Chorus",
+        "2nd Verse",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 11,
+      "name": "Good For You",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        32,
+        34
+      ],
+      "snapshots": [
+        "Intro",
+        "Verse/Chrs",
+        "Brdg/Last"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 20,
+      "name": "Feels So Good",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        40,
+        43
+      ],
+      "snapshots": [
+        "Pre",
+        "Chorus",
+        "2nd Verse",
+        "Solo/Outro"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 14,
+      "name": "Songs About You",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        48,
+        50
+      ],
+      "snapshots": [
+        "Verse",
+        "Chorus",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 24,
+      "name": "Twenty Five",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        56,
+        59
+      ],
+      "snapshots": [
+        "Verse",
+        "Pre",
+        "Chorus",
+        "Solo/Outro"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 25,
+      "name": "California Sunrise",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        64,
+        66
+      ],
+      "snapshots": [
+        "Verse",
+        "Chorus",
+        "2nd Verse"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 26,
+      "name": "I Wanna Dance",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        72,
+        74
+      ],
+      "snapshots": [
+        "Verse",
+        "Chorus",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 16,
+      "name": "Bittersweet",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        84,
+        88
+      ],
+      "snapshots": [
+        "Intro",
+        "Pre",
+        "Chorus",
+        "2nd Verse",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 21,
+      "name": "Enough For Me",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        89,
+        93
+      ],
+      "snapshots": [
+        "Intro",
+        "Chorus",
+        "Bridge",
+        "Solo",
+        "2nd Verse"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 5,
+      "name": "Somebody to Love",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        96,
+        97
+      ],
+      "snapshots": [
+        "Main",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 12,
+      "name": "Lose my Brain",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        100,
+        102
+      ],
+      "snapshots": [
+        "Verse/Chrs",
+        "Solo",
+        "Pre 1"
+      ],
+      "levelMatching": "Deferred"
+    },
+    {
+      "slot": 3,
+      "name": "She's An Actress",
+      "sourceSetlist": "Flwers",
+      "sourceRange": [
+        104,
+        107
+      ],
+      "snapshots": [
+        "Chorus",
+        "Verse",
+        "Verse 2",
+        "Solo"
+      ],
+      "levelMatching": "Deferred"
+    }
+  ],
+  "pending": [
+    {
+      "slot": 0,
+      "name": "Tongue Tied",
+      "status": "No tone blocks in destination; source range needed"
+    },
+    {
+      "slot": 4,
+      "name": "Fade",
+      "status": "No tone blocks in destination; source range needed"
+    },
+    {
+      "slot": 6,
+      "name": "The Last Time",
+      "status": "No tone blocks in destination; source range needed"
+    },
+    {
+      "slot": 7,
+      "name": "Better Than This",
+      "status": "No tone blocks in destination; source range needed"
+    },
+    {
+      "slot": 10,
+      "name": "Nothing At All",
+      "status": "No tone blocks in destination; source range needed"
+    },
+    {
+      "slot": 15,
+      "name": "Aftertaste",
+      "status": "Missing source sounds; awaiting MIDI review"
+    }
+  ]
+}

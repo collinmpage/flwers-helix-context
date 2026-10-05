@@ -1,0 +1,73 @@
+[
+  {
+    "file": "C:/Users/Collin/Downloads/Tongue Tied Gtr Parts Solo'd.wav",
+    "sample_rate": 48000,
+    "channels": 1,
+    "duration": 174.0,
+    "sections": [
+      {
+        "second": 51,
+        "rms_dbfs": -32.93,
+        "peak_dbfs": -10.66,
+        "band_percent": [
+          9.3,
+          60.1,
+          27.9,
+          2.6
+        ]
+      },
+      {
+        "second": 64,
+        "rms_dbfs": -20.25,
+        "peak_dbfs": -6.99,
+        "band_percent": [
+          6.0,
+          72.2,
+          15.3,
+          6.5
+        ]
+      },
+      {
+        "second": 76,
+        "rms_dbfs": -22.96,
+        "peak_dbfs": -10.76,
+        "band_percent": [
+          0.6,
+          68.9,
+          29.9,
+          0.6
+        ]
+      },
+      {
+        "second": 87,
+        "rms_dbfs": -20.03,
+        "peak_dbfs": -8.09,
+        "band_percent": [
+          1.9,
+          81.9,
+          9.0,
+          7.2
+        ]
+      }
+    ]
+  },
+  {
+    "file": "C:/Users/Collin/Downloads/tongue tied MSTR02 (CD 16b44.1k).wav",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 172.2055328798186,
+    "sections": [
+      {
+        "second": 120,
+        "rms_dbfs": -8.37,
+        "peak_dbfs": -0.11,
+        "band_percent": [
+          42.4,
+          30.6,
+          17.1,
+          9.9
+        ]
+      }
+    ]
+  }
+]

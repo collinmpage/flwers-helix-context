@@ -155,15 +155,15 @@ The Last Time test: load beat 6660, Verse/Chor snapshot1 at 6662, Bridge snapsho
 - Figure it Out first original section was later than song locator; an initial Verse cue was added.
 - Extra songs020/021/023/024/025/026 and acoustic slots008/009 have tones but are not separate songs in this 17-song arrangement.
 
-## Supporting files retained on the desktop
+## Files available in this repository and release
 
 - `artifacts/Flwers New Verified.hls`: latest exported hardware readback, including newest Tongue Tied gains, The Last Time, and three new starting-tone songs. Imports affect a whole destination setlist; inspect target before importing.
 - `artifacts/FLWERS SET NOV 2026 - Helix Snapshots CC69.als`: corrected MIDI session; physical snapshot test still pending. Put alongside original project/session to resolve audio references.
 - `artifacts/Helix Ableton Snapshot Cue Map.json`: per-event cue audit; controller numbering correction is documented above and does not change event timing/value map.
-- Supporting tone/readback/build notes and selected standalone HLX files are retained locally. Historical notes may contain older pending status and volume values. This README and latest verified HLS supersede those.
-- `SHA256SUMS.txt`: checksums in the local handoff folder.
+- Supporting tone/readback/build notes, scripts, and historical HLX/HLS versions are included in artifacts/. Historical notes may contain older pending status and volume values. This README and latest verified HLS supersede those.
+- `RELEASE-SHA256SUMS.txt`: archive checksums; `release-manifest.json`: archived-file inventory and hashes.
 
-This GitHub repository contains this Markdown handoff only. The supporting files listed above are in `C:/Users/Collin/Documents/Codex/flwers-helix-handoff/artifacts`; transfer those separately if needed. Audio WAVs and original Ableton project assets are not bundled. To play on a laptop, also transfer the original complete Ableton project/audio assets, then place the corrected ALS in the corresponding project folder. This repository supplies context; it does not contain the actual tone exports, MIDI session, or multitrack audio.
+The repository now includes the smaller session and Helix files. The complete saved Ableton project/audio assets and eight recording references are downloadable from the [session release](https://github.com/collinmpage/flwers-helix-context/releases/tag/session-files-2026-10-05). See [DOWNLOAD-AND-OPEN.md](DOWNLOAD-AND-OPEN.md) for extraction and laptop setup. Download all project ZIP parts and merge them into one project folder to retain relative sample references.
 
 Original Windows paths:
 

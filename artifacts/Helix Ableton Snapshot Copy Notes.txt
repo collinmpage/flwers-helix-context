@@ -1,0 +1,13 @@
+Copy based on saved FLWERS SET NOV 2026 for collin.als, not unsaved in-memory changes. Original unchanged. Only Collin Helix arrangement MIDI clips edited; all other track XML, audio clip timing, tempo, and MIDI output routing unchanged.
+
+17 song count-in load clips send Bank LSB/CC32=5 (Flwers New, sixth setlist), then zero-based PC matching new preset slot. At beat +2, CC69 snapshot selection begins. No Program Change or bank messages in section clips. 81 old section cues converted, plus 6 initial snapshot cues = 87 CC69 clips. Most section timing preserved; first section cue at exact song start moved two quarter-note beats later to allow loading during count-in. U6MIDI Pro Port1 / channel2 preserved.
+
+Provisional choices pending user preference: Baby Blue uses 022 electric (not 008 acoustic). Aftertaste Bridge -> snapshot3 Chorus. FOTBF Intro uses snapshot1 Verse because consolidated 013 has Verse/Chorus/Solo only; old source PC8 intro was outside originally supplied9-11 range.
+
+Five songs have preset load and initial snapshot only; subsequent changes remain manual because no Collin Helix cues existed and timings are unconfirmed: Tongue Tied000, Fade004, Better Than This007, Nothing At All010, Good For You011.
+
+Validation: valid gzip and XML; 104 MIDI clips with unique IDs, no overlaps; 17 preset load clips, all bank5; 87 snapshot-only clips, no bank/program messages, every envelope target points to track ControllerTargets.69 and values0-7. All non-Collin-Helix data byte-identical in uncompressed XML. Not yet opened or played in Ableton because original has unsaved changes and saving is deactivated. Live parsing, asset relinking, and physical MIDI behavior still require runtime check.
+
+Use sibling copy stored alongside original .als in original project so existing relative sample references still resolve. Start playback at a song locator/count-in (load cue), not mid-song, when changing songs.
+
+Runtime correction: Ableton displays ControllerTargets.69 (Id 22468) as CC67. CC69 is ControllerTargets.71 (Id 22470). All 87 snapshot envelopes corrected in FLWERS SET NOV 2026 - Helix Snapshots CC69.als. Based on saved Helix Snapshots Test copy; saved routing still U6MIDI Pro Ch2, so reselect Line 6 Helix Ch2 for USB testing. Runtime verification pending.

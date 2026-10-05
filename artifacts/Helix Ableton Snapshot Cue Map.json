@@ -1,0 +1,1060 @@
+[
+  {
+    "type": "preset",
+    "song": "Every High",
+    "beat": 0,
+    "preset": 1,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH INTRO",
+    "beat": 2,
+    "originalBeat": 0,
+    "oldProgram": 80,
+    "preset": 1,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH VERSE",
+    "beat": 76,
+    "originalBeat": 76,
+    "oldProgram": 81,
+    "preset": 1,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH CHORUS",
+    "beat": 181,
+    "originalBeat": 181,
+    "oldProgram": 82,
+    "preset": 1,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH VERSE",
+    "beat": 272,
+    "originalBeat": 272,
+    "oldProgram": 81,
+    "preset": 1,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH CHORUS",
+    "beat": 389.75,
+    "originalBeat": 389.75,
+    "oldProgram": 82,
+    "preset": 1,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH SOLO",
+    "beat": 522.5,
+    "originalBeat": 522.5,
+    "oldProgram": 83,
+    "preset": 1,
+    "snapshot": 4,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH CHORUS",
+    "beat": 602,
+    "originalBeat": 602,
+    "oldProgram": 82,
+    "preset": 1,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Every High",
+    "section": "EVERY HIGH SOLO",
+    "beat": 714,
+    "originalBeat": 714,
+    "oldProgram": 83,
+    "preset": 1,
+    "snapshot": 4,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Somebody to Love",
+    "beat": 800,
+    "preset": 5,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Somebody to Love",
+    "section": "STL VERSE",
+    "beat": 802,
+    "originalBeat": 800,
+    "oldProgram": 97,
+    "preset": 5,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Somebody to Love",
+    "section": "STL SOLO",
+    "beat": 1174,
+    "originalBeat": 1174,
+    "oldProgram": 96,
+    "preset": 5,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Somebody to Love",
+    "section": "STL VERSE",
+    "beat": 1306,
+    "originalBeat": 1306,
+    "oldProgram": 97,
+    "preset": 5,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Somebody to Love",
+    "section": "STL SOLO",
+    "beat": 1366,
+    "originalBeat": 1366,
+    "oldProgram": 96,
+    "preset": 5,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Aftertaste",
+    "beat": 1412,
+    "preset": 15,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE INTRO",
+    "beat": 1414,
+    "originalBeat": 1412,
+    "oldProgram": 83,
+    "preset": 15,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE VERSE",
+    "beat": 1474,
+    "originalBeat": 1474,
+    "oldProgram": 82,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE PRE",
+    "beat": 1524,
+    "originalBeat": 1524,
+    "oldProgram": 81,
+    "preset": 15,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE CHORUS",
+    "beat": 1554,
+    "originalBeat": 1554,
+    "oldProgram": 82,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE INTRO",
+    "beat": 1625,
+    "originalBeat": 1625,
+    "oldProgram": 83,
+    "preset": 15,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE VERSE",
+    "beat": 1656,
+    "originalBeat": 1656,
+    "oldProgram": 82,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE PRE",
+    "beat": 1715,
+    "originalBeat": 1715,
+    "oldProgram": 81,
+    "preset": 15,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE CHORUS",
+    "beat": 1745,
+    "originalBeat": 1745,
+    "oldProgram": 82,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE BRIDGE",
+    "beat": 1813,
+    "originalBeat": 1813,
+    "oldProgram": 98,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "provisional Bridge -> Chorus"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE CHORUS",
+    "beat": 1928,
+    "originalBeat": 1928,
+    "oldProgram": 82,
+    "preset": 15,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Aftertaste",
+    "section": "AFTERTASTE INTRO",
+    "beat": 2031,
+    "originalBeat": 2031,
+    "oldProgram": 83,
+    "preset": 15,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Lose my Brain",
+    "beat": 2092,
+    "preset": 12,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Lose my Brain",
+    "section": "LMB PRE 1",
+    "beat": 2094,
+    "originalBeat": 2092,
+    "oldProgram": 102,
+    "preset": 12,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Lose my Brain",
+    "section": "LMB CHORUS/VERSE",
+    "beat": 2262,
+    "originalBeat": 2262,
+    "oldProgram": 100,
+    "preset": 12,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Lose my Brain",
+    "section": "LMB SOLO",
+    "beat": 2461,
+    "originalBeat": 2461,
+    "oldProgram": 101,
+    "preset": 12,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Lose my Brain",
+    "section": "",
+    "beat": 2526,
+    "originalBeat": 2526,
+    "oldProgram": 100,
+    "preset": 12,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Lose my Brain",
+    "section": "LMB SOLO",
+    "beat": 2686,
+    "originalBeat": 2686,
+    "oldProgram": 101,
+    "preset": 12,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Caught Me by Surprise",
+    "beat": 2860,
+    "preset": 17,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS INTRO",
+    "beat": 2862,
+    "originalBeat": 2860,
+    "oldProgram": 24,
+    "preset": 17,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS INTRO",
+    "beat": 2952,
+    "originalBeat": 2952,
+    "oldProgram": 24,
+    "preset": 17,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS CHORUS",
+    "beat": 3048,
+    "originalBeat": 3048,
+    "oldProgram": 25,
+    "preset": 17,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS INTRO",
+    "beat": 3148,
+    "originalBeat": 3148,
+    "oldProgram": 24,
+    "preset": 17,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS VERSE 2",
+    "beat": 3179,
+    "originalBeat": 3179,
+    "oldProgram": 26,
+    "preset": 17,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS CHORUS",
+    "beat": 3241.25,
+    "originalBeat": 3241.25,
+    "oldProgram": 25,
+    "preset": 17,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS SOLO",
+    "beat": 3307.5,
+    "originalBeat": 3307.5,
+    "oldProgram": 24,
+    "preset": 17,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS CHORUS",
+    "beat": 3408,
+    "originalBeat": 3408,
+    "oldProgram": 25,
+    "preset": 17,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Caught Me by Surprise",
+    "section": "CMBS OUTRO",
+    "beat": 3444,
+    "originalBeat": 3444,
+    "oldProgram": 24,
+    "preset": 17,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Songs About You",
+    "beat": 3596,
+    "preset": 14,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Songs About You",
+    "section": "SAY VERSE",
+    "beat": 3598,
+    "originalBeat": 3596,
+    "oldProgram": 48,
+    "preset": 14,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Songs About You",
+    "section": "SAY VERSE",
+    "beat": 3780,
+    "originalBeat": 3780,
+    "oldProgram": 48,
+    "preset": 14,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Songs About You",
+    "section": "SAY CHORUS",
+    "beat": 3796,
+    "originalBeat": 3796,
+    "oldProgram": 49,
+    "preset": 14,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Songs About You",
+    "section": "SAY SOLO",
+    "beat": 3940,
+    "originalBeat": 3940,
+    "oldProgram": 50,
+    "preset": 14,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Flowers on the Bedroom Floor",
+    "beat": 4164,
+    "preset": 13,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Flowers on the Bedroom Floor",
+    "section": "FOTBF INTRO",
+    "beat": 4166,
+    "originalBeat": 4164,
+    "oldProgram": 8,
+    "preset": 13,
+    "snapshot": 1,
+    "status": "Intro -> Verse (consolidated preset lacks Intro)"
+  },
+  {
+    "type": "snapshot",
+    "song": "Flowers on the Bedroom Floor",
+    "section": "FOTBF VERSE",
+    "beat": 4396,
+    "originalBeat": 4396,
+    "oldProgram": 9,
+    "preset": 13,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Flowers on the Bedroom Floor",
+    "section": "FOTBF CHORUS",
+    "beat": 4508,
+    "originalBeat": 4508,
+    "oldProgram": 10,
+    "preset": 13,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Flowers on the Bedroom Floor",
+    "section": "FOTBF SOLO",
+    "beat": 4580,
+    "originalBeat": 4580,
+    "oldProgram": -1,
+    "preset": 13,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Flowers on the Bedroom Floor",
+    "section": "FOTBF CHORUS",
+    "beat": 4704,
+    "originalBeat": 4704,
+    "oldProgram": 10,
+    "preset": 13,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "She's An Actress",
+    "beat": 4920,
+    "preset": 3,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA CHORUS",
+    "beat": 4922,
+    "originalBeat": 4920,
+    "oldProgram": 104,
+    "preset": 3,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA VERSE",
+    "beat": 5088,
+    "originalBeat": 5088,
+    "oldProgram": 105,
+    "preset": 3,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA CHORUS",
+    "beat": 5202,
+    "originalBeat": 5202,
+    "oldProgram": 104,
+    "preset": 3,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA VERSE 2",
+    "beat": 5280,
+    "originalBeat": 5280,
+    "oldProgram": 106,
+    "preset": 3,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA CHORUS",
+    "beat": 5392,
+    "originalBeat": 5392,
+    "oldProgram": 104,
+    "preset": 3,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA SOLO",
+    "beat": 5552,
+    "originalBeat": 5552,
+    "oldProgram": 107,
+    "preset": 3,
+    "snapshot": 4,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "She's An Actress",
+    "section": "SAA CHORUS",
+    "beat": 5635,
+    "originalBeat": 5635,
+    "oldProgram": 104,
+    "preset": 3,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Baby Blue",
+    "beat": 5780,
+    "preset": 22,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Baby Blue",
+    "section": "BB INTRO",
+    "beat": 5782,
+    "originalBeat": 5780,
+    "oldProgram": 0,
+    "preset": 22,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Baby Blue",
+    "section": "BB VERSE",
+    "beat": 5900,
+    "originalBeat": 5900,
+    "oldProgram": 1,
+    "preset": 22,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Baby Blue",
+    "section": "BB INTRO",
+    "beat": 6088,
+    "originalBeat": 6088,
+    "oldProgram": 0,
+    "preset": 22,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Baby Blue",
+    "section": "BB VERSE",
+    "beat": 6176,
+    "originalBeat": 6176,
+    "oldProgram": 1,
+    "preset": 22,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Baby Blue",
+    "section": "BB INTRO",
+    "beat": 6379,
+    "originalBeat": 6379,
+    "oldProgram": 0,
+    "preset": 22,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "The Last Time",
+    "beat": 6660,
+    "preset": 6,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "The Last Time",
+    "section": "TLT VERSE/CHORUS",
+    "beat": 6662,
+    "originalBeat": 6660,
+    "oldProgram": 14,
+    "preset": 6,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "The Last Time",
+    "section": "TLT BRIDGE",
+    "beat": 7192,
+    "originalBeat": 7192,
+    "oldProgram": 15,
+    "preset": 6,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "The Last Time",
+    "section": "TLT SOLO",
+    "beat": 7271,
+    "originalBeat": 7271,
+    "oldProgram": 24,
+    "preset": 6,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "The Last Time",
+    "section": "TLT BRIDGE",
+    "beat": 7360,
+    "originalBeat": 7360,
+    "oldProgram": 15,
+    "preset": 6,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Figure it Out",
+    "beat": 7588,
+    "preset": 2,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "beat": 7590,
+    "preset": 2,
+    "snapshot": 1,
+    "status": "initial count-in snapshot"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO VERSE",
+    "beat": 7636,
+    "originalBeat": 7636,
+    "oldProgram": 112,
+    "preset": 2,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO PRE",
+    "beat": 7731.75,
+    "originalBeat": 7731.75,
+    "oldProgram": 113,
+    "preset": 2,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO SOLO",
+    "beat": 7920,
+    "originalBeat": 7920,
+    "oldProgram": 114,
+    "preset": 2,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO VERSE",
+    "beat": 7984,
+    "originalBeat": 7984,
+    "oldProgram": 112,
+    "preset": 2,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO PRE",
+    "beat": 8050,
+    "originalBeat": 8050,
+    "oldProgram": 113,
+    "preset": 2,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO SOLO",
+    "beat": 8242,
+    "originalBeat": 8242,
+    "oldProgram": 114,
+    "preset": 2,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO PRE",
+    "beat": 8304,
+    "originalBeat": 8304,
+    "oldProgram": 113,
+    "preset": 2,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO SOLO",
+    "beat": 8434,
+    "originalBeat": 8434,
+    "oldProgram": 114,
+    "preset": 2,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Figure it Out",
+    "section": "FIO VERSE",
+    "beat": 8498,
+    "originalBeat": 8498,
+    "oldProgram": 112,
+    "preset": 2,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "preset",
+    "song": "Tongue Tied",
+    "beat": 8552,
+    "preset": 0,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Tongue Tied",
+    "beat": 8554,
+    "preset": 0,
+    "snapshot": 1,
+    "status": "manual sections; no original cues"
+  },
+  {
+    "type": "preset",
+    "song": "Fade",
+    "beat": 9604,
+    "preset": 4,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Fade",
+    "beat": 9606,
+    "preset": 4,
+    "snapshot": 1,
+    "status": "manual sections; no original cues"
+  },
+  {
+    "type": "preset",
+    "song": "Better Than This",
+    "beat": 10308,
+    "preset": 7,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Better Than This",
+    "beat": 10310,
+    "preset": 7,
+    "snapshot": 1,
+    "status": "manual sections; no original cues"
+  },
+  {
+    "type": "preset",
+    "song": "Nothing At All",
+    "beat": 11352,
+    "preset": 10,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Nothing At All",
+    "beat": 11354,
+    "preset": 10,
+    "snapshot": 1,
+    "status": "manual sections; no original cues"
+  },
+  {
+    "type": "preset",
+    "song": "Good For You",
+    "beat": 12000,
+    "preset": 11,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Good For You",
+    "beat": 12002,
+    "preset": 11,
+    "snapshot": 1,
+    "status": "manual sections; no original cues"
+  },
+  {
+    "type": "preset",
+    "song": "Bittersweet",
+    "beat": 13152,
+    "preset": 16,
+    "bank": 5
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET INTRO",
+    "beat": 13154,
+    "originalBeat": 13152,
+    "oldProgram": 84,
+    "preset": 16,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET PRE",
+    "beat": 13312,
+    "originalBeat": 13312,
+    "oldProgram": 85,
+    "preset": 16,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET CHORUS",
+    "beat": 13347.25,
+    "originalBeat": 13347.25,
+    "oldProgram": 86,
+    "preset": 16,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET INTRO",
+    "beat": 13412.5,
+    "originalBeat": 13412.5,
+    "oldProgram": 84,
+    "preset": 16,
+    "snapshot": 1,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET VERSE",
+    "beat": 13464,
+    "originalBeat": 13464,
+    "oldProgram": 85,
+    "preset": 16,
+    "snapshot": 2,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET VERSE B",
+    "beat": 13507.25,
+    "originalBeat": 13507.25,
+    "oldProgram": 87,
+    "preset": 16,
+    "snapshot": 4,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET CHORUS",
+    "beat": 13538.5,
+    "originalBeat": 13538.5,
+    "oldProgram": 86,
+    "preset": 16,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET SOLO",
+    "beat": 13603.5,
+    "originalBeat": 13603.5,
+    "oldProgram": 88,
+    "preset": 16,
+    "snapshot": 5,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET CHORUS",
+    "beat": 13676,
+    "originalBeat": 13676,
+    "oldProgram": 86,
+    "preset": 16,
+    "snapshot": 3,
+    "status": "mapped"
+  },
+  {
+    "type": "snapshot",
+    "song": "Bittersweet",
+    "section": "BITTERSWEET CHORUS",
+    "beat": 13796,
+    "originalBeat": 13796,
+    "oldProgram": 86,
+    "preset": 16,
+    "snapshot": 3,
+    "status": "mapped"
+  }
+]

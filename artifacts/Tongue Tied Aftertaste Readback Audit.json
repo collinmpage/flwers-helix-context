@@ -1,0 +1,9 @@
+{
+  "runtime": "All 7 intended snapshots loaded and recalled",
+  "issues": [],
+  "soloGainDb": 2,
+  "octaveInterval": 12,
+  "octaveMix": 0.65,
+  "shiftVoiceLevel": 1,
+  "monoPitchPan": "HX normalized PanVoice1 from .5 to .45"
+}

@@ -1,0 +1,64 @@
+Flwers New — song slots and build status
+
+Current status: All 14 consolidated song presets loaded successfully on the Helix. Songs About You and Twenty Five were simplified to two amps; all seven of their intended snapshots recalled successfully and hardware readback matched the prepared settings. Other songs retain their earlier verified layouts.
+
+000 | Tongue Tied | Helix: Tongue Tied | Named slot; no tone blocks yet
+001 | Every High | Helix: Every High | Previously built
+002 | Figure it Out | Helix: Figure it Out | Previously built
+003 | She's An Actress | Helix: She's An Actress | Loaded successfully; included in final hardware export
+    Flwers 104–107; snapshots: 1 Chorus; 2 Verse; 3 Verse 2; 4 Solo
+004 | Fade | Helix: Fade | Named slot; no tone blocks yet
+005 | Somebody to Love | Helix: Somebody to Love | Loaded successfully; included in final hardware export
+    Flwers 096–097; snapshots: 1 Main; 2 Solo
+006 | The Last Time | Helix: The Last Time | Named slot; no tone blocks yet
+007 | Better Than This | Helix: Better Than This | Named slot; no tone blocks yet
+008 | Acoustic (Baby Blue/Falling for You) | Helix: Acoustic BB/FFY | Previously built
+009 | Acoustic (25) | Helix: Acoustic (25) | Previously built
+010 | Nothing At All | Helix: Nothing At All | Named slot; no tone blocks yet
+011 | Good For You | Helix: Good For You | Loaded successfully; included in final hardware export
+    Flwers 032–034; snapshots: 1 Intro; 2 Verse/Chrs; 3 Brdg/Last
+012 | Lose my Brain | Helix: Lose my Brain | Loaded successfully; included in final hardware export
+    Flwers 100–102; snapshots: 1 Verse/Chrs; 2 Solo; 3 Pre 1
+013 | Flowers on the Bedroom Floor | Helix: FOTBF | Loaded successfully; included in final hardware export
+    Flwers 009–011; snapshots: 1 Verse; 2 Chorus; 3 Solo
+014 | Songs About You | Helix: Songs About You | Simplified two-amp version; all 3 snapshots tested and readback matched
+    Flwers 048–050; snapshots: 1 Verse; 2 Chorus; 3 Solo
+015 | Aftertaste | Helix: Aftertaste | Named slot; no tone blocks yet
+016 | Bittersweet | Helix: Bittersweet | Loaded successfully; included in final hardware export
+    Flwers 084–088; snapshots: 1 Intro; 2 Pre; 3 Chorus; 4 2nd Verse; 5 Solo
+017 | Caught Me by Surprise | Helix: CMBS | Previously built
+020 | Feels So Good | Helix: Feels So Good | Loaded successfully; included in final hardware export
+    Flwers 040–043; snapshots: 1 Pre; 2 Chorus; 3 2nd Verse; 4 Solo/Outro
+021 | Enough For Me | Helix: Enough For Me | Loaded successfully; included in final hardware export
+    Flwers 089–093; snapshots: 1 Intro; 2 Chorus; 3 Bridge; 4 Solo; 5 2nd Verse
+022 | Baby Blue | Helix: Baby Blue | Loaded successfully; included in final hardware export
+    Flwers 000–002; snapshots: 1 Intro/Brdg; 2 Verse/Chrs; 3 Boost
+023 | Falling For You | Helix: Falling For You | Loaded successfully; included in final hardware export
+    Flwers 016–018; snapshots: 1 Pre/Chorus; 2 2nd Verse; 3 Solo
+024 | Twenty Five | Helix: Twenty Five | Simplified two-amp version; all 4 snapshots tested and readback matched
+    Flwers 056–059; snapshots: 1 Verse; 2 Pre; 3 Chorus; 4 Solo/Outro
+025 | California Sunrise | Helix: Calif. Sunrise | Loaded successfully; included in final hardware export
+    Flwers 064–066; snapshots: 1 Verse; 2 Chorus; 3 2nd Verse
+026 | I Wanna Dance | Helix: I Wanna Dance | Loaded successfully; included in final hardware export
+    Flwers 072–074; snapshots: 1 Verse; 2 Chorus; 3 Solo
+
+Somebody to Love: snapshot 1 Main uses Flwers 097; snapshot 2 Solo uses Flwers 096 (original output boost approximately +4 dB).
+Aftertaste: source sounds lost; awaiting identification from MIDI.
+Gain matching across songs is deferred. Original Plexi section levels were retained. Adapted US Deluxe clean sections require auditioning.
+018 and 019 were preserved.
+Current hardware export: Flwers New Final Readback.hls
+014/024 tonal changes: Jazz Rivet replaced by lower-drive US Deluxe; Rotating and Plate ambience approximated with shared Chamber reverb.
+2026-10-04 update: 000 Tongue Tied added with Chorus, Post/Pre, Verse 2, Solo. Solo output +2 dB (3.5 dB above Post/Pre), Simple Pitch +12 with 65% mix and Shift Level 10. All 4 snapshots tested. Initial tones require auditioning; intro/first verse deferred.
+015 Aftertaste added from Flwers084 Intro,082 Pre,083 Chorus. All 3 snapshots tested. Original source Chorus octave-down blend retained.
+Current hardware export: Flwers New TT Aftertaste Readback.hls.
+Remaining empty songs: Fade, The Last Time, Better Than This, Nothing At All.
+
+Tongue Tied revision: Teemah replaced with Ratatouille distortion. Chorus Gain5.5; Post/Pre and Solo6.2; Verse2 Gain2.5. All snapshot output levels raised6dB: Chorus+6,Post/Pre+4.5,Verse2+5.5,Solo+8. Octave+12/Mix65% preserved. Imported and all4 recalls/outputlevels verified inHXEdit; audition matching pending. Current preset file000 Tongue Tied Fuzzier Louder.hlx.
+
+Tongue Tied latest revision: all four snapshot outputs raised another 5 dB: Chorus +11, Post/Pre +9.5, Verse 2 +10.5, Solo +13 dB. Chorus Ratatouille Gain reduced 5.5 to 3.5. Other fuzz settings and octave Solo preserved. Imported successfully; all four output levels and Chorus gain verified in HX Edit.
+
+Latest Tongue Tied: another +3.5 dB all four snapshots. Chorus +14.5; Post/Pre +13; Verse 2 +14; Solo +16.5. Simple Pitch +12 mix increased 65 to 80 percent; only Solo enabled. All four levels and Solo octave mix verified in HX Edit.
+
+006 The Last Time built from Ableton Collin Helix cues: PC14 = Flwers014 Verse/Chorus; PC15 = Flwers015 Bridge; PC24 = Flwers024 Solo. Imported three snapshots Verse/Chor, Bridge, Solo and runtime recalled each. MIDI not remapped. Solo parallel legacy cabs consolidated into dual legacy cab retaining models and mic parameters; two amps retained across DSPs.
+
+004 Fade, 007 Better Than This, 010 Nothing At All now have starting presets: respectively 4,4,3 snapshots. All 11 recalled and hardware readback checked. No remaining empty requested song slots. Recording matching is provisional: assistant measured WAVs but could not hear them. Gain matching, audition, and MIDI remapping remain.

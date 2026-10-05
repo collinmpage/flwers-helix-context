@@ -1,0 +1,4 @@
+Prepared presets; not imported or hardware tested yet.
+Tongue Tied 000: Chorus, Post/Pre, Verse 2, Solo. Intro/first verse deferred by user. Epiphone Custom baseline; possible Strat later. One US Deluxe amp/cab; Teemah drive; light compression; delay/Chamber ambience. Post/Pre output -1.5 dB; Solo output 0 dB. Solo Simple Pitch +12 semitones, Mix 65%, shifted voice level 0 dB. Initial settings based on user section descriptions and waveform measurements, not a listening comparison. Audition required.
+Aftertaste 015: Intro from Flwers084, Pre082, Chorus083 despite saved source labels. Source Archetype/dual-cab and section parameters retained; permanently bypassed blocks omitted. Rotating Reverb on DSP1 before original Simple Pitch. Original Chorus octave-down blend retained.
+Static checks passed; gain matching across songs deferred.

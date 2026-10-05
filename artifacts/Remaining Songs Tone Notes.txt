@@ -1,0 +1,7 @@
+Three new starting presets for Epiphone electric -> PA. Recordings measured with RMS/FFT; not heard by the assistant. Snapshot section labels and gain/effects choices are provisional and need user audition. Ableton saved set has song locators but no Collin Helix MIDI clips in these song intervals. Jack QC track describes another guitarist and was not used as Collin's tone prescription. No MIDI changes made. All use Archetype Clean with dual legacy WhoWatt100/Lead80 cabinet, Deluxe Comp, gentle input gate (-60 dB/500 ms), 3-band EQ, Simple Delay and Chamber. Fade Teemah drive; other two RAT. Single amp and 8 total blocks each.
+
+004 Fade: Soft Fills, Warm Verse, Crunch, Lead Boost (+3 dB vs Crunch). Broad stem contrasts: 40-60s fills, 60-80s darker/lower-register passages, 90/140/210s fuller sections. These timestamps do not prove verse/chorus names.
+007 Better Than This: Warm Fills (30-50/100-110s), BrightFill (60-70/120s), Rhythm (130-150/190s), Big Outro (200-220s, +2 dB vs Rhythm).
+010 Nothing At All: Warm Fills (30-50s), BrightRock (90-128s), Lead Boost optional +3 dB. Guitar stem 128.44s vs full practice 144s; timeline alignment is not verified, avoid treating times as automated cue locations.
+
+Imported into Flwers New, all 11 intended snapshots runtime recalled successfully; hardware readback values and bypass states verified. Cross-song gain staging and recorded-tone matching remain for audition.

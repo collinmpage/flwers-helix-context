@@ -1,0 +1,26 @@
+{
+  "runtimeVerified": [
+    3,
+    5,
+    11,
+    12,
+    13,
+    14,
+    16,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "remaining": [],
+  "simplifiedPresets": {
+    "14": "All 3 intended snapshots tested; hardware parameters matched",
+    "24": "All 4 intended snapshots tested; hardware parameters matched"
+  },
+  "hardwareExport": "Flwers New Final Readback.hls",
+  "audioAudition": "pending",
+  "gainMatching": "deferred"
+}
