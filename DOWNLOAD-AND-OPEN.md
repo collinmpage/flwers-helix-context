@@ -11,6 +11,8 @@ The [session-files-2026-10-05 release](https://github.com/collinmpage/flwers-hel
 
 If Live reports missing samples, search the merged project folder with Live's file manager. The repository contains `ableton-relative-path-audit.json` recording checks against the desktop source. Original absolute Mac paths may remain inside the ALS; the packaged relative project paths are what make this portable.
 
+The path audit found 19 references in **Session View clips** to an unavailable old `../Backing Tracks/W: BASS/...` folder (13 distinct WAV paths). They are not in the Arrangement playback clips. Those old session clips may still show missing media. Six additional unresolved references are Live's built-in External Instrument device, not WAV files. The package contains every file actually present in the saved project; it cannot supply those absent external backing-track sources.
+
 The repository's smaller `Ableton/` directory contains the ALS files and device but **not** the large audio dependencies. The release downloads are needed for complete playback. Clone/download the repository for the context, audits, scripts, and Helix files.
 
 ## Tone files
